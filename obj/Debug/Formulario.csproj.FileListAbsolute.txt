@@ -1,0 +1,11 @@
+D:\PROGRAMAS\visual studio\Formulario\bin\Debug\Formulario.exe.config
+D:\PROGRAMAS\visual studio\Formulario\bin\Debug\Formulario.exe
+D:\PROGRAMAS\visual studio\Formulario\bin\Debug\Formulario.pdb
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.Form1.resources
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.exe
+D:\PROGRAMAS\visual studio\Formulario\obj\Debug\Formulario.pdb
